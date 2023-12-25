@@ -1,5 +1,5 @@
 # Ticketing App 
-Ticketin App is a versatile ticketing application built on Next.js and Tailwind CSS. It allows users to efficiently manage tasks, issues, or inquiries through a structured ticketing system.
+Ticketing App is a versatile ticketing application built on Next.js and Tailwind CSS. It allows users to efficiently manage tasks, issues, or inquiries through a structured ticketing system.
 ## Features
 - **Usage of Next.js and Tailwind CSS**
 - **Introduction to the new app router.**
